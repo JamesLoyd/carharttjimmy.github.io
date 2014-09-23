@@ -1,4 +1,4 @@
-carharttjimmy.github.io
+Carharttjimmy (James Loyd)
 =======================
 
-My github io page and stuff
+My github io page and stuff. I like to write programs and do math.
