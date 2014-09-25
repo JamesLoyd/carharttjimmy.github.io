@@ -15,3 +15,10 @@ And, I like to program.
 * [Arke](https://github.com/carharttjimmy/Arke)
 * [FolderGenUtility](https://foldergenutility.jamesloyd.com)
 * [dotfiles mainly for xmonad](https://github.com/carharttjimmy/dotfiles-Balrog)
+
+## GitHub Gists (small program scripts)
+* (Money Counter)[https://gist.github.com/carharttjimmy/fb33620426e9e5a6a989]
+  * written in C#
+* (Modular Equivalence)(https://gist.github.com/carharttjimmy/ae34b02ad44a0dd8ddad)
+  * written in C#
+  * Uses the modern algebra definition. And, was just fun to make.
