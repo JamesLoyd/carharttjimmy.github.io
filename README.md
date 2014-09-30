@@ -5,8 +5,14 @@ Carharttjimmy (James Loyd)
 I am a math major completing my senior year at UNCC.
 And, I like to program. I also have indepth experience in the Agile way of writing software and scrum based development groups. I was able to give clear, detailed, and concise updates on my efforts as a fellow developer. I also like to study languages and learn them such as Haskell or Rust. I believe that exposure to many different paradigms and programming styles can lead to more in depth knowledge of problems facing software development in the real and ever changing world.
 
+## Stuff I am interested in
+ * Artifial Intelligence in the form of Artificial Neural Networks
+ * Application/Web Development
+ * Text Based RPG's
+ * Data Mining
+
 ## Programming Languages (in order of expertise)
-* C#
+* C#   
 * Java
 * VB.net
 * JavaScript
