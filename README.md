@@ -3,7 +3,7 @@ Carharttjimmy (James Loyd)
 
 ## A little about me
 I am a math major completing my senior year at UNCC.
-And, I like to program.
+And, I like to program. I also have indepth experience in the Agile way of writing software and scrum based development groups. I was able to give clear, detailed, and concise updates on my efforts as a fellow developer.
 
 ## Programming Languages (in order of expertise)
 * C#
