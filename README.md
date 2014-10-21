@@ -6,10 +6,7 @@ I am a math major completing my senior year at UNCC.
 And, I like to program. I also have indepth experience in the Agile way of writing software and scrum based development groups. I was able to give clear, detailed, and concise updates on my efforts as a fellow developer. I also like to study languages and learn them such as Haskell or Rust. I believe that exposure to many different paradigms and programming styles can lead to more in depth knowledge of problems facing software development in the real and ever changing world.
 
 ## Stuff I am interested in
- * Artifial Intelligence in the form of Artificial Neural Networks
- * Application/Web Development
- * Text Based RPG's
- * Data Mining
+ * [Node.js](http://nodejs.org/)
 
 ## Programming Languages (in order of expertise)
 * C#   
@@ -17,11 +14,12 @@ And, I like to program. I also have indepth experience in the Agile way of writi
 * VB.net
 * JavaScript
 
-## Progrmming Lanaguages that I am still a newbie at
-* Scala
-* Haskell
-* Rust
-* Go
+## Progrmming Lanaguages that I am still learning and those that I am interested in learning
+* [Scala](http://www.scala-lang.org/)
+* [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+* [Rust](http://www.rust-lang.org/)
+* [Go](https://golang.org/)
+* [Elixir](http://elixir-lang.org/)
 
 ## Projects on GitHub
 * [Arke](https://github.com/carharttjimmy/Arke)
