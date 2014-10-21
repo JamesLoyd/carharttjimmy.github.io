@@ -10,6 +10,7 @@ And, I like to program. I also have indepth experience in the Agile way of writi
  * Fault-tolerant web services and applications
  * MVC architecture and variants of MVC
  * Self-healing (can diagnose an issue in operation and attempt to fix it) online software platforms and applications
+ * Robust data analytics and reporting
 
 ## Programming Languages (in order of expertise)
 * C#   
