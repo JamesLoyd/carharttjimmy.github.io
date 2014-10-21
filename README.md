@@ -7,6 +7,9 @@ And, I like to program. I also have indepth experience in the Agile way of writi
 
 ## Stuff I am interested in
  * [Node.js](http://nodejs.org/)
+ * Fault-tolerant web services and applications
+ * MVC architecture and variants of MVC
+ * Self-healing (can diagnose an issue in operation and attempt to fix it) online software platforms and applications
 
 ## Programming Languages (in order of expertise)
 * C#   
