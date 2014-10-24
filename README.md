@@ -26,8 +26,8 @@ And, I like to program. I also have indepth experience in the Agile way of writi
 * [Elixir](http://elixir-lang.org/)
 
 ## Projects on GitHub
-* [Arke](https://github.com/carharttjimmy/Arke)
 * [FolderGenUtility](https://foldergenutility.jamesloyd.com)
+  * currently not-on-active development as I focus on school.  
 * [dotfiles mainly for xmonad](https://github.com/carharttjimmy/dotfiles-Balrog)
 
 ## GitHub Gists (small program scripts)
