@@ -1,4 +1,4 @@
-Carharttjimmy (James Loyd)
+James Loyd
 =======================
 
 ## A little about me
