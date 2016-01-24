@@ -2,7 +2,7 @@ James Loyd
 =======================
 
 ## A little about me
-I am an outdoorsman and a professional software developer. I am currently helping the company, I work for in a MVC migration as we go from Classic ASP to C#/.NET.
+I am an outdoorsman and a professional software developer.
 
 ## Stuff I am interested in
  * [Node.js](http://nodejs.org/)
