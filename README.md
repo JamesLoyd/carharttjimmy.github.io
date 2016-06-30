@@ -29,7 +29,7 @@ I have a B.S in Mathematics from the [University of North Carolina at Charlotte]
 * BSD (Yes, I am sure I am not a unicorn)
 * Windows , really its the Bash subsystem.
 * [lodash](https://lodash.com/) , really its the best javascript utility libary ever
-* UI Architecture
+* Software Architecture
 * Science
 * Math and the use of algebra in Computer Science
 * Video gaming, XBOX One and PC (sometimes)
