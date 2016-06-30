@@ -1,7 +1,7 @@
 {
   "name": "James Loyd",
-  "tagline": "My github io page",
-  "body": "James Loyd\r\n=======================\r\n\r\n## A little about me\r\nI am an outdoorsman and a professional software developer.\r\n\r\n\r\n## More stuff coming\r\n",
+  "tagline": "",
+  "body": "## A little about me\r\nI am a professional C# web developer, loving husband to an amazing wife, outdoorsman, and general tech guy.\r\n\r\nI have a B.S in Mathematics from the [University of North Carolina at Charlotte](http://www.uncc.edu/) Go Niners!\r\n\r\n\r\n\r\n## Languages and Frameworks\r\n* C#\r\n* Visual Basic (Worst syntax ever)\r\n* Javascript (Big Lodash fan)\r\n* F#\r\n* Haskell\r\n* KendoUI & Kendo MVVM\r\n\r\n## Favorite Blogs\r\n* [Scott Hanselman's Blog](http://www.hanselman.com/blog/)\r\n* [Iris Classon's Blog](http://irisclasson.com/)\r\n* [Drew Marsh's Blog](http://blog.hackedbrain.com/)\r\n* [Eric Lawrence's Blog](https://textslashplain.com/)\r\n\r\n## Interests\r\n* fault-tolerant distributed web systems\r\n* embedded systems and devices\r\n* Linux (Yes a .Net guy who is linux capable!)\r\n* BSD (Yes, I am sure I am not a unicorn)\r\n* Windows , really its the Bash subsystem.\r\n* [lodash](https://lodash.com/) , really its the best javascript utility libary ever\r\n* UI Architecture\r\n* Science\r\n* Math and the use of algebra in Computer Science\r\n* Video gaming, XBOX One and PC (sometimes)",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
