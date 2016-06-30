@@ -12,9 +12,9 @@ I have a B.S in Mathematics from the [University of North Carolina at Charlotte]
 * C#
 * Visual Basic (Worst syntax ever)
 * Javascript (Big Lodash fan)
+* KendoUI & Kendo MVVM
 * F#
 * Haskell
-* KendoUI & Kendo MVVM
 
 ## Favorite Blogs
 * [Scott Hanselman's Blog](http://www.hanselman.com/blog/)
